@@ -1,0 +1,18 @@
+{
+    "name": "kllall145/test_for_packagist",
+    "description": "test test_for_packagist",
+    "license": "GPL-3.0-only",
+    "authors": [
+        {
+            "name": "kllall145",
+            "email": "kllall145@gmail.com"
+        }
+    ],
+    "require": {},
+    "require-dev": {},
+    "autoload": {
+        "psr-4": {
+            "Kllall145\\": "src/"
+        }
+    }
+}
